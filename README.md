@@ -11,6 +11,8 @@ This repository contains Jupyter Notebooks for Systematic Analysis of the Data:
         
         SpaceX_Data_Visualization is about using advanced visualization tools like Matplotlib, NumPy and Pandas to further explore the Data
         
+        spacex_dash_app.py is about creating a Dashboard using Plotly
+        
         SpaceX_Launch_Site_Location is about using Folium to pull the Launching Sites on Map and retrieve information in interactive manner
         
         Machine_Learning_Pridiction_ALGO uses Machine Learning Algorithm to predict the outcome of Falcon-9 Landing at four different Launch Sites.
